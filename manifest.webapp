@@ -1,0 +1,16 @@
+{
+  "version": "1.0a",
+  "name": "Bangladesh Weather",
+  "description": "This application will let you know the current weather conditions of Bangladesh.",
+  "launch_path": "/bangladesh_weather/index.html",
+  "icons": {
+    "16": "/bangladesh_weather/img/icon16.png",
+    "48": "/bangladesh_weather/img/icon48.png",
+    "128": "/bangladesh_weather/img/icon128.png"
+  },
+  "developer": {
+    "name": "Robin Mehdee",
+    "url": "http://www.mythrobin.com/"
+  },
+  "default_locale": "en"
+}
